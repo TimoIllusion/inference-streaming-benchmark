@@ -239,4 +239,4 @@ Open work is tracked with beads. Run `bd ready` to see available issues.
 
 ## AI Assistance
 
-Development of this project was supported by AI agents (Claude, ChatGPT).
+Development of this project was supported by OpenAI's and Claude's AI coding agents, e.g. Opus 4.8 with Claude Code and Claude Design or GPT-5.5 with OpenAI Codex. The goal of this repository was also to understand and explore the capabilities of these state of the art coding tools.
